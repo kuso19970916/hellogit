@@ -1,1 +1,1 @@
-package hello-git
+package hello_git
